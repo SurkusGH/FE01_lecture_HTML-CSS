@@ -1,0 +1,52 @@
+nav{
+    background-color: lightcoral;
+    color: rgb(50, 50, 50);
+}
+h1{
+    background-color: lightgoldenrodyellow;
+    color: brown;
+}
+h2{
+    background-color: lightblue;
+    color: blue;
+}
+h3{
+    background-color: lightgreen;
+    color: green;
+}
+
+aside{
+    background-color: lightcoral;
+    color: rgb(50, 50, 50);
+}
+
+.yellow{
+    background-color: yellow;
+    width: 100px;
+    height: 25px;
+}
+.green{
+    background-color: green;
+    width: 100px;
+    height: 25px;
+}
+.red{
+    background-color: red;
+    width: 100px;
+    height: 25px;
+}
+
+.black{
+    background-color: black;
+    width: 100px;
+    height: 25px;
+}
+.white{
+    background-color: whitesmoke;
+    width: 100px;
+    height: 25px;
+
+    /* text-align: center;
+    float: right; */
+}
+
